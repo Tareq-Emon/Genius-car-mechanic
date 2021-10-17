@@ -43,11 +43,11 @@ const experts = [
 
 const Experts = () => {
     return (
-        <div className="container">
+        <div id="experts" className="container">
             <h2 className="text-primary mt-5">Our Experts</h2>
             <div className="row">
                 {
-                    experts.map(expert =><Expert
+                    experts.map(expert => <Expert
                         key={expert.name}
                         expert={expert}
                     ></Expert>)

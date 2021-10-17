@@ -1,5 +1,4 @@
 [
-
     {
         "id": 1,
         "name": "Replace Tire",
@@ -10,41 +9,41 @@
     },
     {
         "id": 2,
-        "name": "Replace Tire",
-        "price": 2000,
-        "time": 2,
+        "name": "Full Clean",
+        "price": 5000,
+        "time": 5,
         "description": "lorem ipsum dkolor sit amet, consectute redipisi cing elitVeatae autem aperiam nequy wuaera molestias voluptatibus harum ametipsa.",
         "img": "https://i.ibb.co/WnymgSp/5.png"
     },
     {
         "id": 3,
-        "name": "Replace Tire",
-        "price": 2000,
-        "time": 2,
+        "name": "Engine Clean",
+        "price": 3000,
+        "time": 3,
         "description": "lorem ipsum dkolor sit amet, consectute redipisi cing elitVeatae autem aperiam nequy wuaera molestias voluptatibus harum ametipsa.",
         "img": "https://i.ibb.co/zVhVgNN/4.png"
     },
     {
         "id": 4,
-        "name": "Replace Tire",
-        "price": 2000,
+        "name": "Set color",
+        "price": 1500,
         "time": 2,
         "description": "lorem ipsum dkolor sit amet, consectute redipisi cing elitVeatae autem aperiam nequy wuaera molestias voluptatibus harum ametipsa.",
         "img": "https://i.ibb.co/mJdJYKs/3.png"
     },
     {
         "id": 5,
-        "name": "Replace Tire",
-        "price": 2000,
-        "time": 2,
+        "name": "Fual Change",
+        "price": 1000,
+        "time": 1,
         "description": "lorem ipsum dkolor sit amet, consectute redipisi cing elitVeatae autem aperiam nequy wuaera molestias voluptatibus harum ametipsa.",
         "img": "https://i.ibb.co/q5fCtb7/2.png"
     },
     {
         "id": 6,
-        "name": "Replace Tire",
+        "name": "All check",
         "price": 2000,
-        "time": 2,
+        "time": 3,
         "description": "lorem ipsum dkolor sit amet, consectute redipisi cing elitVeatae autem aperiam nequy wuaera molestias voluptatibus harum ametipsa.",
         "img": "https://i.ibb.co/tzrw8cc/1.png"
     }
